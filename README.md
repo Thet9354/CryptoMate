@@ -36,7 +36,7 @@ If you would like to contribute to CryptoMate, feel free to fork the repo and su
 
 ## Credits
 
-CryptoMate was created by [yourusername](https://github.com/yourusername).
+CryptoMate was created by [yourusername](https://github.com/Thet9354).
 
 ## License
 
