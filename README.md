@@ -16,7 +16,7 @@ CryptoMate is a modern and user-friendly Android app that allows users to buy, s
 
 - Java
 - Android Studio
-- SQLite
+- Firebase
 
 ## Installation
 
