@@ -1,13 +1,5 @@
 # CryptoMate
 
-![CryptoMate Screenshot](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page1.png =250x)
-
-![CryptoMate Screenshot](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page1.png =250x)
-
-![A picture of the strabucks app](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page2.png)
-
-![A picture of the strabucks app](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page3.png)
-
 CryptoMate is a modern and user-friendly Android app that allows users to buy, sell, and transfer various cryptocurrencies. The app features an intuitive UI/UX design and includes a price chart for each coin with a line chart showing the ups and downs.
 
 ## Features
