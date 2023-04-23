@@ -1,6 +1,6 @@
 # CryptoMate
 
-![CryptoMate Screenshot](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page1.png "CryptoMate Screenshot" =250x)
+![CryptoMate Screenshot](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page1.png =250x)
 
 ![CryptoMate Screenshot](https://github.com/Thet9354/CryptoMate/blob/main/app/src/main/res/drawable/page1.png =250x)
 
